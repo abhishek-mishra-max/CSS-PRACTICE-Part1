@@ -1,0 +1,14 @@
+h1 {
+    text-align: center;
+    color: crimson;
+    background-color: aqua;
+}
+h2 {
+    text-align: right;
+}
+body {
+    background-color: rgb(154, 239, 211);
+}
+p {
+    text-align: justify ;
+}
